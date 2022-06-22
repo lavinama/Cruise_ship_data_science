@@ -2,7 +2,7 @@
 
 **Objective:** Build a regressor that recommends the “crew” size for potential ship buyers.
 
-This project is covers four main topics:
+This project covers four main topics:
 1. data proprocessing and variable selection
 2. basic regression model
 3. hyper-parameters tuning
