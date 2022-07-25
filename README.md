@@ -23,6 +23,6 @@ I am able to solve a data science problem while displaying my expertise in these
 * Ability to use advanced data science techniques such as sklearn’s pipeline tool for model building.
 * Ability to interpret your model in terms of real-life applications.
 
-
+The dataset is well-structured and clean, it is relatively small (9 features and 159 observations), and has no missing values.
 
 This project was inspired by this [blog post](https://towardsdatascience.com/sample-take-home-coding-exercise-for-a-data-scientist-position-8086dd195a76)
